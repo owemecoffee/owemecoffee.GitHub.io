@@ -16,7 +16,7 @@ _To live is the rarest thing in the world. Most people exist, that is all._
 
 - Have more fun at [my personal website](https://www.jinchen.site), which I share with you my personal everything. 
 
-- Do check out [my projects](https://github.com/owemecoffee) if you are interested in what I do as a AI student. If you like my project, please star or fork it.
+- Do check out [my projects](https://github.com/owemecoffee) if you are interested in what I do as AI student. If you like my project, please star or fork it.
 
 
 
