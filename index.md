@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Jin Chen¡®s Website
+![Architecture](img/sky.jpg)
 
-You can use the [editor on GitHub](https://github.com/owemecoffee/owemecoffee.GitHub.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+_To live is the rarest thing in the world. Most people exist, that is all._
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### ?  Brief Intro    
 
-### Markdown
+   Heyy?! I'm Jin.    
+    I am a senior studying computer science.    
+    Currently I locate in Shenzhen.    
+    I share passion in AI and I might **learn AI long into future** .    
+    If you share the same interest as me, let's be friend! 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+###  Tips
 
-# Header 1
-## Header 2
-### Header 3
+1?? Have more fun at [My Personal Website](https://www.jinchen.site), which I share with you my personal everything. ?
 
-- Bulleted
-- List
+2?? Do check out [my projects](https://github.com/owemecoffee) if you are interested in what i do as a AI student. If you like my project, please star? or fork it.
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Contacts
+? Email : owe.me.coffee@outlook.com    
+? Wechat: owe_me_coffee   
+? Twitter: owemecoffee  
+? Instagram: jinx9x
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/owemecoffee/owemecoffee.GitHub.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and weâ€™ll help you sort it out.
